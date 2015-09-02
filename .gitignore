@@ -1,0 +1,19 @@
+static/*
+migrations/*
+api/*
+*.pyc
+*.pyo
+.DS_Store
+__pycache__
+
+#Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+#Developer
+.project
+.pydevproject
+
+#Django Stuff:
+*.log
+*.pot
